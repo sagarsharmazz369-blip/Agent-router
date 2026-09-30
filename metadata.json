@@ -1,0 +1,6 @@
+{
+  "name": "AgentGate",
+  "description": "Give AI agents power. Keep humans in control. The permission engine, approval center, and audit control system for AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
